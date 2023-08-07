@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=507100,BANDWIDTH=507100,RESOLUTION=640x1280,CODECS="avc1.4d401f,mp4a.40.2"
+https://s3.eu-west-1.amazonaws.com/wizcontent/streaming-video/99912-4da3f648d1c1410f8840c8f5fcc37814/360p/index.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=229900,BANDWIDTH=229900,RESOLUTION=426x852,CODECS="avc1.4d401e,mp4a.40.2"
+https://s3.eu-west-1.amazonaws.com/wizcontent/streaming-video/99912-4da3f648d1c1410f8840c8f5fcc37814/240p/index.m3u8
